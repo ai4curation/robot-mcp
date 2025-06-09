@@ -1,3 +1,3 @@
 # robot-mcp
 
-See [the docs](https://github.ai4curation.io/robot-mcp).
+See [the docs](https://github.ai4curation.io/aidocs).
